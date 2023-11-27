@@ -1,7 +1,5 @@
-# Graph Normalizing Flows
+# Graph normalizing flows for fMRI analysis
+ 
+Codes are adapted from GNF https://proceedings.neurips.cc/paper_files/paper/2019/hash/1e44fdf9c44d7328fecc02d677ed704d-Abstract.html
 
 Dependencies are listed in the file requirements.txt.
-
-Training graphs for the graph generation task are in ./training_graphs.
-
-We used GraphRNN code (https://github.com/JiaxuanYou/graph-generation) to generate the training graphs located in ./training_graphs and to run evaluations.
